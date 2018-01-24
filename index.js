@@ -11,14 +11,14 @@ function divide(a, b){
   return (a / b)
 }
 function inc(n){
-  return n++
+  return (n++)
 }
 function dec(n){
-  return n--
+  return (n--)
 }
 function makeInt(n){
-  return parseInt('n', 10)
+  return parseInt('578', 10)
 }
 function preserveDecimal(n){
-  return parseFloat('n')
+  return parseFloat('2.222')
 }
