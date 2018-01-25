@@ -17,7 +17,7 @@ function dec(n){
   return n -= 1
 }
 function makeInt(n){
-  return parseInt('what', 10)
+  return parseInt('759.222', 10)
 }
 function preserveDecimal(n){
   return parseFloat(2.222)
